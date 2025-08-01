@@ -1,0 +1,18 @@
+services:
+  pihole:
+    container_name: pihole
+    image: pihole/pihole:latest
+    network_mode: "host"               # Use host network to allow DHCP and DNS to bind directly
+    environment:
+      TZ: 'America/New_York'
+      FTLCONF_webserver_api_password: "${PIHOLE_PASSWORD}"
+      FTLCONF_dns_listeningMode: 'all'  # Important for host network mode
+    volumes:
+      - './etc-pihole:/etc/pihole'
+      # Uncomment if you have custom dnsmasq configs
+      #- './etc-dnsmasq.d:/etc/dnsmasq.d'
+    cap_add:
+      - NET_ADMIN      # Needed for DHCP and other network controls
+      - SYS_TIME       # For NTP if used
+      - SYS_NICE       # Optional
+    restart: unless-stopped
