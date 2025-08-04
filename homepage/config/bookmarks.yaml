@@ -1,0 +1,10 @@
+---
+# For configuration options and examples, please see:
+# https://gethomepage.dev/configs/bookmarks
+
+- Quick Links:
+    - Github:
+        - abbr: GH
+          icon: github
+          href: https://github.com/cbaier33
+

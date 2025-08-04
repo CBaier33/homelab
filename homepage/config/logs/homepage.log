@@ -1,0 +1,701 @@
+[2025-08-04T19:16:17.136Z] info: kubernetes.yaml was copied to the config folder
+[2025-08-04T19:18:49.604Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:18:49.938Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:18:49.946Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:18:49.958Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:18:49.971Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:18:49.980Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:18:49.988Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:18:49.997Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:18:50.006Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:18:50.018Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:18:50.041Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:18:50.045Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:18:55.918Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:18:55.999Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:18:56.003Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:18:56.009Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:18:56.017Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:18:56.022Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:18:56.027Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:18:56.037Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:18:56.043Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:18:56.047Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:18:56.054Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:18:56.061Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:18:56.114Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:18:59.052Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:19:06.097Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:19:06.263Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:19:06.269Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:19:06.274Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:19:06.280Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:19:06.286Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:19:06.291Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:19:06.296Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:19:06.300Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:19:06.307Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:19:06.313Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:19:06.413Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:19:06.448Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:19:14.080Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:19:14.085Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:19:14.094Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:19:16.246Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:20:05.182Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:20:05.196Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:29.977Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:30.005Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:30.029Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:30.764Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:30.896Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:30.907Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:30.921Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:30.934Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:30.947Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:30.961Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:30.967Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:30.973Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:30.982Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:30.992Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:31.022Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:31.064Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:32.103Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:32.175Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:32.180Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:32.185Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:32.192Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:32.198Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:32.201Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:32.212Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:32.216Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:32.222Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:32.229Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:32.233Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:32.291Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:32.820Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:32.968Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:32.975Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:32.979Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:32.982Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:32.986Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:32.991Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:32.995Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:33.004Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:33.008Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:33.012Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:33.016Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:33.084Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:33.486Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:33.595Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:33.599Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:33.603Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:33.606Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:33.611Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:33.616Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:33.624Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:33.628Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:33.632Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:33.636Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:33.640Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:33.686Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:34.056Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:34.184Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:34.188Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:34.192Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:34.206Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:34.210Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:34.215Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:34.226Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:34.231Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:34.235Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:34.240Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:34.245Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:34.329Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:34.648Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:34.784Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:34.789Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:34.793Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:34.798Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:34.802Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:34.806Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:34.817Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:34.821Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:34.825Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:34.829Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:34.832Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:34.912Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:35.156Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:35.257Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:35.262Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:35.266Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:35.270Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:35.275Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:35.281Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:35.289Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:35.293Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:35.297Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:35.301Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:35.304Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:35.362Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:35.684Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:35.800Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:35.804Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:35.808Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:35.813Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:35.820Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:35.825Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:35.833Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:35.837Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:35.842Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:35.846Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:35.852Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:35.908Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:36.119Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:36.194Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:36.198Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:36.203Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:36.210Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:36.216Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:36.220Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:36.228Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:36.232Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:36.238Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:36.242Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:36.246Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:36.293Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:36.574Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:36.640Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:36.644Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:36.647Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:36.652Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:36.658Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:36.663Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:36.676Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:36.679Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:36.683Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:36.687Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:36.690Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:36.752Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:37.083Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:37.220Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:37.224Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:37.228Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:37.232Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:37.237Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:37.241Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:37.249Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:37.253Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:37.259Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:37.263Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:37.267Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:37.329Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:37.564Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:37.664Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:37.668Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:37.672Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:37.677Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:37.681Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:37.685Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:37.699Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:37.703Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:37.707Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:37.711Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:37.715Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:37.789Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:38.121Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:38.227Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:38.231Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:38.236Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:38.240Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:38.245Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:38.249Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:38.259Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:38.263Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:38.267Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:38.271Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:38.275Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:38.344Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:38.575Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:38.704Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:38.709Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:38.713Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:38.718Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:38.722Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:38.727Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:38.735Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:38.739Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:38.744Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:38.748Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:38.753Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:38.829Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:39.003Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:39.072Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:39.078Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:39.083Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:39.088Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:39.092Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:39.096Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:39.104Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:39.108Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:39.112Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:39.116Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:39.120Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:39.174Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:39.576Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:39.650Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:39.654Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:39.666Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:39.671Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:39.676Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:39.682Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:39.689Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:39.693Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:39.698Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:39.702Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:39.706Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:39.763Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:39.986Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:40.054Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:40.059Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:40.064Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:40.072Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:40.079Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:40.084Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:40.097Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:40.101Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:40.105Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:40.109Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:40.113Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:23:40.174Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:24:41.997Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:24:42.173Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:24:42.188Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:24:42.200Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:24:42.215Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:24:42.226Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:24:42.241Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:24:42.254Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:24:42.262Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:24:42.276Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:24:42.284Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:24:42.296Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:24:42.384Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:34:06.842Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:34:06.859Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:35.862Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:35.891Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:40.572Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:40.664Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:40.785Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:40.800Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:40.814Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:40.830Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:40.841Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:40.850Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:40.855Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:40.863Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:40.870Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:40.878Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:40.884Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:41.048Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:42.103Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:42.175Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:42.181Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:42.186Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:42.191Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:42.209Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:42.213Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:42.222Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:42.227Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:42.231Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:42.236Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:42.242Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:42.287Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:42.651Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:42.785Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:42.789Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:42.793Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:42.798Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:42.802Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:42.806Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:42.814Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:42.819Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:42.823Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:42.826Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:42.830Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:42.881Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:43.061Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:43.177Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:43.181Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:43.185Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:43.189Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:43.193Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:43.197Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:43.207Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:43.211Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:43.215Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:43.219Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:43.224Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:43.273Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:43.614Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:43.688Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:43.693Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:43.697Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:43.702Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:43.706Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:43.710Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:43.719Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:43.723Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:43.727Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:43.731Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:43.735Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:43.806Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:44.159Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:44.293Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:44.297Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:44.301Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:44.305Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:44.309Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:44.314Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:44.325Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:44.330Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:44.333Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:44.337Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:44.341Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:44.410Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:44.770Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:44.833Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:44.837Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:44.842Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:44.846Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:44.850Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:44.856Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:44.865Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:44.869Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:44.874Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:44.877Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:44.881Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:44.929Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:45.814Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:45.952Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:45.956Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:45.961Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:45.967Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:45.972Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:45.978Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:45.988Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:45.993Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:45.996Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:46.000Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:46.004Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:46.069Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:46.430Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:46.582Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:46.586Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:46.591Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:46.597Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:46.602Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:46.607Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:46.626Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:46.631Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:46.635Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:46.638Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:46.643Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:35:46.703Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:36:19.310Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:36:19.315Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:36:49.659Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:36:49.686Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:36:49.711Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:36:50.305Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:36:50.415Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:36:50.426Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:36:50.434Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:36:50.449Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:36:50.465Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:36:50.478Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:36:50.486Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:36:50.492Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:36:50.497Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:36:50.511Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:36:50.525Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:36:50.611Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:36:51.432Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:36:51.510Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:36:51.516Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:36:51.521Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:36:51.530Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:36:51.536Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:36:51.540Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:36:51.554Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:36:51.558Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:36:51.565Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:36:51.572Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:36:51.577Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:36:51.627Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:36:52.098Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:36:52.156Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:36:52.160Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:36:52.165Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:36:52.170Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:36:52.174Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:36:52.178Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:36:52.186Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:36:52.191Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:36:52.195Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:36:52.199Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:36:52.204Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:36:52.259Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:36:52.792Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:36:52.870Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:36:52.875Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:36:52.878Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:36:52.883Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:36:52.887Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:36:52.891Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:36:52.901Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:36:52.905Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:36:52.909Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:36:52.912Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:36:52.916Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:36:52.982Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:36:53.376Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:36:53.443Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:36:53.447Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:36:53.461Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:36:53.465Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:36:53.469Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:36:53.473Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:36:53.481Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:36:53.484Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:36:53.488Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:36:53.492Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:36:53.496Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:36:53.550Z] error: Host validation failed for: subiaco-node1:2003. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-08-04T19:53:58.980Z] info: services.yaml was copied to the config folder
+[2025-08-04T19:59:06.669Z] error: Failed to load services.yaml, please check for errors
+[2025-08-04T19:59:06.669Z] error: YAMLException: bad indentation of a mapping entry (11:35)
+
+  8 |         icon: pi-hole
+  9 |         description: DNS filtering
+ 10 |     - Unifi Controller:
+ 11 |         href: http://subicao-node1:
+----------------------------------------^
+ 12 |         icon: unifi
+ 13 |         description: WiFi management
+[2025-08-04T19:59:06.674Z] error: Failed to load services.yaml, please check for errors
+[2025-08-04T19:59:06.674Z] error: YAMLException: bad indentation of a mapping entry (11:35)
+
+  8 |         icon: pi-hole
+  9 |         description: DNS filtering
+ 10 |     - Unifi Controller:
+ 11 |         href: http://subicao-node1:
+----------------------------------------^
+ 12 |         icon: unifi
+ 13 |         description: WiFi management
+[2025-08-04T19:59:07.149Z] error: Failed to load services.yaml, please check for errors
+[2025-08-04T19:59:07.150Z] error: YAMLException: bad indentation of a mapping entry (11:35)
+
+  8 |         icon: pi-hole
+  9 |         description: DNS filtering
+ 10 |     - Unifi Controller:
+ 11 |         href: http://subicao-node1:
+----------------------------------------^
+ 12 |         icon: unifi
+ 13 |         description: WiFi management
+[2025-08-04T20:00:53.281Z] error: Failed to load services.yaml, please check for errors
+[2025-08-04T20:00:53.282Z] error: YAMLException: bad indentation of a mapping entry (11:35)
+
+  8 |         icon: pi-hole
+  9 |         description: DNS filtering
+ 10 |     - Unifi Controller:
+ 11 |         href: http://subicao-node1:
+----------------------------------------^
+ 12 |         icon: unifi
+ 13 |         description: WiFi management
+[2025-08-04T20:00:53.549Z] error: Failed to load services.yaml, please check for errors
+[2025-08-04T20:00:53.549Z] error: YAMLException: bad indentation of a mapping entry (11:35)
+
+  8 |         icon: pi-hole
+  9 |         description: DNS filtering
+ 10 |     - Unifi Controller:
+ 11 |         href: http://subicao-node1:
+----------------------------------------^
+ 12 |         icon: unifi
+ 13 |         description: WiFi management
+[2025-08-04T20:28:50.324Z] error: Failed to load services.yaml, please check for errors
+[2025-08-04T20:28:50.326Z] error: YAMLException: incomplete explicit mapping pair; a key node is missed; or followed by a non-tabulated empty line (6:7)
+
+ 3 | # https://gethomepage.dev/configs/serv ...
+ 4 | 
+ 5 | - Finance:
+ 6 |     - :
+-----------^
+ 7 |         href: http://subiaco-node1:99
+ 8 |         icon: si-fireflyiii
+[2025-08-04T20:28:50.332Z] error: Failed to load services.yaml, please check for errors
+[2025-08-04T20:28:50.332Z] error: YAMLException: incomplete explicit mapping pair; a key node is missed; or followed by a non-tabulated empty line (6:7)
+
+ 3 | # https://gethomepage.dev/configs/serv ...
+ 4 | 
+ 5 | - Finance:
+ 6 |     - :
+-----------^
+ 7 |         href: http://subiaco-node1:99
+ 8 |         icon: si-fireflyiii
+[2025-08-04T20:28:50.590Z] error: Failed to load services.yaml, please check for errors
+[2025-08-04T20:28:50.592Z] error: YAMLException: incomplete explicit mapping pair; a key node is missed; or followed by a non-tabulated empty line (6:7)
+
+ 3 | # https://gethomepage.dev/configs/serv ...
+ 4 | 
+ 5 | - Finance:
+ 6 |     - :
+-----------^
+ 7 |         href: http://subiaco-node1:99
+ 8 |         icon: si-fireflyiii
+[2025-08-04T20:48:09.767Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-08-04T20:48:09.769Z] error: undefined
+[2025-08-04T20:48:09.789Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-08-04T20:48:09.790Z] error: undefined
+[2025-08-04T20:48:10.240Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-08-04T20:48:10.241Z] error: undefined
+[2025-08-04T21:01:10.089Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-08-04T21:01:10.090Z] error: end of the stream or a document separator is expected (5:1)
+
+ 2 | # For configuration options and  ...
+ 3 | # https://gethomepage.dev/config ...
+ 4 | title: "Subiaco Homelab"
+ 5 | - search:
+-----^
+ 6 |     provider: duckduckgo
+ 7 |     target: _blank
+[2025-08-04T21:01:10.290Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-08-04T21:01:10.291Z] error: end of the stream or a document separator is expected (5:1)
+
+ 2 | # For configuration options and  ...
+ 3 | # https://gethomepage.dev/config ...
+ 4 | title: "Subiaco Homelab"
+ 5 | - search:
+-----^
+ 6 |     provider: duckduckgo
+ 7 |     target: _blank
+[2025-08-04T21:01:10.959Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-08-04T21:01:10.959Z] error: end of the stream or a document separator is expected (5:1)
+
+ 2 | # For configuration options and  ...
+ 3 | # https://gethomepage.dev/config ...
+ 4 | title: "Subiaco Homelab"
+ 5 | - search:
+-----^
+ 6 |     provider: duckduckgo
+ 7 |     target: _blank
+[2025-08-04T21:03:21.706Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-08-04T21:03:21.706Z] error: end of the stream or a document separator is expected (5:1)
+
+ 2 | # For configuration options and  ...
+ 3 | # https://gethomepage.dev/config ...
+ 4 | title: Subiaco Homelab
+ 5 | - search:
+-----^
+ 6 |     provider: duckduckgo
+ 7 |     target: _blank
+[2025-08-04T21:03:21.894Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-08-04T21:03:21.894Z] error: end of the stream or a document separator is expected (5:1)
+
+ 2 | # For configuration options and  ...
+ 3 | # https://gethomepage.dev/config ...
+ 4 | title: Subiaco Homelab
+ 5 | - search:
+-----^
+ 6 |     provider: duckduckgo
+ 7 |     target: _blank
+[2025-08-04T21:03:22.424Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-08-04T21:03:22.424Z] error: end of the stream or a document separator is expected (5:1)
+
+ 2 | # For configuration options and  ...
+ 3 | # https://gethomepage.dev/config ...
+ 4 | title: Subiaco Homelab
+ 5 | - search:
+-----^
+ 6 |     provider: duckduckgo
+ 7 |     target: _blank
+[2025-08-04T21:06:29.801Z] error: Failed to discover services, please check kubernetes.yaml for errors or remove example entries.
+[2025-08-04T21:06:29.801Z] error: YAMLException: end of the stream or a document separator is expected (7:1)
+
+ 4 | 
+ 5 | - title: Subiaco
+ 6 | 
+ 7 | providers:
+-----^
+ 8 |   openweathermap: openweathermap ...
+ 9 |   weatherapi: weatherapiapikey
+[2025-08-04T21:06:29.803Z] error: Failed to load settings.yaml, please check for errors
+[2025-08-04T21:06:29.803Z] error: YAMLException: end of the stream or a document separator is expected (7:1)
+
+ 4 | 
+ 5 | - title: Subiaco
+ 6 | 
+ 7 | providers:
+-----^
+ 8 |   openweathermap: openweathermap ...
+ 9 |   weatherapi: weatherapiapikey
+[2025-08-04T21:06:29.935Z] error: Failed to load settings.yaml, please check for errors
+[2025-08-04T21:06:29.936Z] error: YAMLException: end of the stream or a document separator is expected (7:1)
+
+ 4 | 
+ 5 | - title: Subiaco
+ 6 | 
+ 7 | providers:
+-----^
+ 8 |   openweathermap: openweathermap ...
+ 9 |   weatherapi: weatherapiapikey
+[2025-08-04T21:06:30.059Z] error: <index> YAMLException: end of the stream or a document separator is expected (7:1)
+
+ 4 | 
+ 5 | - title: Subiaco
+ 6 | 
+ 7 | providers:
+-----^
+ 8 |   openweathermap: openweathermap ...
+ 9 |   weatherapi: weatherapiapikey
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readDocument (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2735:5)
+    at loadDocuments (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2778:5)
+    at Object.load$1 [as load] (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2804:19)
+    at m (/app/.next/server/chunks/3131.js:1:4406)
+    at K (/app/.next/server/pages/index.js:1:15387)
+    at /app/node_modules/.pnpm/next@15.4.5_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages.runtime.prod.js:12:4796
+    at /app/node_modules/.pnpm/next@15.4.5_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/lib/trace/tracer.js:169:36
+    at NoopContextManager.with (/app/node_modules/.pnpm/next@15.4.5_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/@opentelemetry/api/index.js:1:7062)
+[2025-08-04T21:06:30.888Z] error: Failed to load settings.yaml, please check for errors
+[2025-08-04T21:06:30.888Z] error: YAMLException: end of the stream or a document separator is expected (7:1)
+
+ 4 | 
+ 5 | - title: Subiaco
+ 6 | 
+ 7 | providers:
+-----^
+ 8 |   openweathermap: openweathermap ...
+ 9 |   weatherapi: weatherapiapikey
+[2025-08-04T21:06:30.890Z] error: Failed to discover services, please check kubernetes.yaml for errors or remove example entries.
+[2025-08-04T21:06:30.890Z] error: YAMLException: end of the stream or a document separator is expected (7:1)
+
+ 4 | 
+ 5 | - title: Subiaco
+ 6 | 
+ 7 | providers:
+-----^
+ 8 |   openweathermap: openweathermap ...
+ 9 |   weatherapi: weatherapiapikey
+[2025-08-04T21:06:30.893Z] error: Failed to load settings.yaml, please check for errors
+[2025-08-04T21:06:30.893Z] error: YAMLException: end of the stream or a document separator is expected (7:1)
+
+ 4 | 
+ 5 | - title: Subiaco
+ 6 | 
+ 7 | providers:
+-----^
+ 8 |   openweathermap: openweathermap ...
+ 9 |   weatherapi: weatherapiapikey
