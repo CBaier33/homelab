@@ -1,0 +1,60 @@
+serverAddr = # INSERT ADDRESS
+serverPort = 7000
+auth.token = # INSERT TOKEN
+loginFailExit = false
+
+[[proxies]]
+name = "main"
+type = "http"
+localPort = 8083
+customDomains = ["cbaier.tech"]
+transport.useEncryption = true
+
+[[proxies]]
+name="mfa"
+type = "http"
+localPort = 8067
+customDomains = ["mfa.cbaier.tech"]
+transport.useEncryption = true
+
+[[proxies]]
+name="photos"
+type = "http"
+localPort = 3000
+customDomains = ["photos.cbaier.tech"]
+transport.useEncryption = true
+
+[[proxies]]
+name="api.photos"
+type = "http"
+localPort = 8080
+customDomains = ["api.photos.cbaier.tech"]
+transport.useEncryption = true
+
+[[proxies]]
+name="albums.photos"
+type = "http"
+localPort = 3002
+customDomains = ["albums.photos.cbaier.tech"]
+transport.useEncryption = true
+
+[[proxies]]
+name="accounts.photos"
+type = "http"
+localPort = 3001
+customDomains = ["accounts.photos.cbaier.tech"]
+transport.useEncryption = true
+
+[[proxies]]
+name="cast.photos"
+type = "http"
+localPort = 3004
+customDomains = ["cast.photos.cbaier.tech"]
+transport.useEncryption = true
+
+[[proxies]]
+name="minio.photos"
+type = "http"
+localPort = 3200
+customDomains = ["minio.photos.cbaier.tech"]
+transport.useEncryption = true
