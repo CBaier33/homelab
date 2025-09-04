@@ -1,0 +1,46 @@
+db:
+      host: postgres
+      port: 5432
+      name: ente_db
+      user: pguser
+      password: ${POSTGRES_PASSWORD}
+
+s3:
+      # Top-level configuration for buckets, you can override by specifying these configuration in the desired bucket.
+      # Set this to false if using external object storage bucket or bucket with SSL
+      are_local_buckets: true
+      # Set this to false if using subdomain-style URL. This is set to true for ensuring compatibility with MinIO when SSL is enabled.
+      use_path_style_urls: true
+      b2-eu-cen:
+         key: ${MINIO_ROOT_USER}
+         secret: ${MINIO_ROOT_PASSWORD}
+         endpoint: https://minio.photos.cbaier.tech
+         region: eu-central-2
+         bucket: b2-eu-cen
+      wasabi-eu-central-2-v3:
+         key: ${MINIO_ROOT_USER}
+         secret: ${MINIO_ROOT_PASSWORD}
+         endpoint: https://minio.photos.cbaier.tech
+         region: eu-central-2
+         bucket: wasabi-eu-central-2-v3
+         compliance: false
+      scw-eu-fr-v3:
+         key: ${MINIO_ROOT_USER}
+         secret: ${MINIO_ROOT_PASSWORD}
+         endpoint: https://minio.photos.cbaier.tech
+         region: eu-central-2
+         bucket: scw-eu-fr-v3
+
+# Specify the base endpoints for various web apps
+apps:
+    public-albums: https://albums.photos.cbaier.tech
+    cast: https://cast.photos.cbaier.tech
+    accounts: https://accounts.photos.cbaier.tech
+
+key:
+      encryption: ${ENCRYPTION_KEY}
+      hash: ${HASH_KEY}
+
+jwt:
+      secret: ${JWT_KEY}
+
