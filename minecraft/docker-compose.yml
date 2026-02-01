@@ -1,0 +1,21 @@
+services:
+  mc:
+    image: itzg/minecraft-server:latest
+    container_name: mc
+    user: "1000:1000"
+    restart: always
+    pull_policy: daily
+    tty: true
+    stdin_open: true
+    ports:
+      - "25565:25565"
+      - "56767:56767/udp"
+    environment:
+      EULA: "TRUE"
+      TYPE: PAPER
+      INIT_MEMORY: 1G
+      MAX_MEMORY: 4G
+    volumes:
+      # attach the relative directory 'data' to the container's /data path
+      - /mnt/minecraft:/data
+

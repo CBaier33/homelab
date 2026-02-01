@@ -4,57 +4,132 @@ auth.token = # INSERT TOKEN
 loginFailExit = false
 
 [[proxies]]
-name = "main"
+name = "portfolio"
 type = "http"
 localPort = 8083
-customDomains = ["cbaier.tech"]
+customDomains = ["me.cbaier.tech", "www.cbaier.tech"]
 transport.useEncryption = true
 
 [[proxies]]
-name="mfa"
+name="2fauth"
 type = "http"
 localPort = 8067
 customDomains = ["mfa.cbaier.tech"]
 transport.useEncryption = true
 
 [[proxies]]
-name="photos"
+name="immich"
 type = "http"
-localPort = 3000
+localPort = 2283
 customDomains = ["photos.cbaier.tech"]
 transport.useEncryption = true
 
 [[proxies]]
-name="api.photos"
+name="radicale"
 type = "http"
-localPort = 8080
-customDomains = ["api.photos.cbaier.tech"]
+localPort = 5232
+customDomains = ["calendar.cbaier.tech"]
 transport.useEncryption = true
 
 [[proxies]]
-name="albums.photos"
+name="taiga"
 type = "http"
-localPort = 3002
-customDomains = ["albums.photos.cbaier.tech"]
+localPort = 9000
+customDomains = ["taiga.cbaier.tech"]
 transport.useEncryption = true
 
 [[proxies]]
-name="accounts.photos"
+name="obsidian"
+type = "http"
+localPort = 5984
+customDomains = ["obsidian.cbaier.tech"]
+transport.useEncryption = true
+
+[[proxies]]
+name="actual"
+type = "http"
+localPort = 5006
+customDomains = ["actual.cbaier.tech"]
+transport.useEncryption = true
+
+[[proxies]]
+name="owncloud"
+type = "http"
+localPort = 8049
+customDomains = ["drive.cbaier.tech"]
+transport.useEncryption = true
+
+[[proxies]]
+name="vaultwarden"
+type = "http"
+localPort = 9328
+customDomains = ["vw.cbaier.tech"]
+transport.useEncryption = true
+
+[[proxies]]
+name="unsubmarine"
 type = "http"
 localPort = 3001
-customDomains = ["accounts.photos.cbaier.tech"]
+customDomains = ["unsubscribe.cbaier.tech"]
 transport.useEncryption = true
 
 [[proxies]]
-name="cast.photos"
+name="electrum"
+type="tcp"
+localIP="192.168.1.94"
+
+[[proxies]]
+name = "mc-java"
+type = "tcp"
+localPort = 25565
+remotePort = 25565
+
+[[proxies]]
+name = "mc-bedrock"
+type = "udp"
+localPort = 56767
+remotePort = 56767
+
+[[proxies]]
+name="sogo"
 type = "http"
-localPort = 3004
-customDomains = ["cast.photos.cbaier.tech"]
+localPort = 8043
+customDomains = ["email.cbaier.tech"]
 transport.useEncryption = true
 
 [[proxies]]
-name="minio.photos"
-type = "http"
-localPort = 3200
-customDomains = ["minio.photos.cbaier.tech"]
-transport.useEncryption = true
+name = "mailcow.smtp"
+type = "tcp"
+localPort = 25
+remotePort = 25
+
+[[proxies]]
+name = "mailcow.smtps"
+type = "tcp"
+localPort = 465
+remotePort = 465
+
+##[[proxies]]
+##name = "mailcow.submission"
+##type = "tcp"
+##localPort = 587
+##remotePort = 587
+
+[[proxies]]
+name = "mailcow.imaps"
+type = "tcp"
+localPort = 993
+remotePort = 993
+
+[[proxies]]
+name = "mailcow.pops"
+type = "tcp"
+localPort = 995
+remotePort = 995
+
+[[proxies]]
+name = "mailcow.sieve"
+type = "tcp"
+localPort = 4190
+remotePort = 4190
+
